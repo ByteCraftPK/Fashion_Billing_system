@@ -44,12 +44,12 @@ Exit Application: Click "Exit" to close the application.
 
 5. Features
 
-*Add New Record: Insert new customer and product details into the database.
-*Display Records: Retrieve and display all records from the database in a tabular format.
-*Update Record: Modify existing records with new information.
-*Delete Record: Remove records from the database.
-*Search Record: Find a specific record by product ID.
-*User-friendly Interface: Easy to navigate and use with clear labels and buttons.
+Add New Record: Insert new customer and product details into the database.
+Display Records: Retrieve and display all records from the database in a tabular format.
+Update Record: Modify existing records with new information.
+Delete Record: Remove records from the database.
+Search Record: Find a specific record by product ID.
+User-friendly Interface: Easy to navigate and use with clear labels and buttons.
 
 6. Code Overview
    
