@@ -19,8 +19,11 @@ Ensure that you have MySQL installed and running on your system.
 Create the database and table:
 
 Open your MySQL command line or any MySQL client and run the following commands:
+
 CREATE DATABASE fashion;
+
 USE fashion;
+
 CREATE TABLE fashion(
     PId INT PRIMARY KEY,
     CName VARCHAR(50),
